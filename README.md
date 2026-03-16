@@ -108,18 +108,6 @@ Recommended recording settings:
 
 ## Demo Recording Checklist
 
-Record and show all of the following:
-- Shimmer loading on cold start.
-- Smooth infinite scrolling and page append.
-- Pinch-to-zoom in feed image and snap-back animation.
-- Like and Save toggles updating immediately.
-- Custom snackbar shown for Comment/Share actions.
-
-## Pinch-To-Zoom Demo Notes (Chrome)
-
-- Preferred: trackpad pinch over post image.
-- Alternative: mouse wheel over image to trigger zoom fallback.
-- Expected behavior: image scales over UI and animates back to original position when interaction ends.
 
 ## Edge Cases Handled
 
